@@ -1,3 +1,7 @@
+License
+This code is open for personal and educational use. Please feel free to modify and experiment with it!
+
+
 # Python Code Sample: Variable Declaration and Printing
 
 ## Description
