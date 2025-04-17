@@ -24,13 +24,13 @@ The script contains the following features:
    ```bash
    python my_code.py
 Example Output:
-Tahmid is my name. My age is 21
+Tahmid is my name. My age is 20
 1st Program
 23
 58
 My name is: Tahmid
-My age is: 21
-21.9
+My age is: 20
+20.9
 2000.5
 The type of age is: <class 'int'>
 The type of name is: <class 'str'>
